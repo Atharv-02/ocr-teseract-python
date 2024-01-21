@@ -1,0 +1,7 @@
+tesseract
+poppler
+tesseract-ocr
+pdf2image   
+Image     
+pytesseract  
+Flask             
